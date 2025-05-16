@@ -69,6 +69,8 @@ g++ src/PriorityQueueMST.cpp -o mst
 ./mst
 ```
 
+---
+
 ## Dependencies  
 - C++ Compiler (e.g., g++)
 
